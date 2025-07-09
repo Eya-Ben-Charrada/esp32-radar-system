@@ -19,7 +19,7 @@ This is a servo-based radar prototype built using an ESP32 microcontroller, HC-S
 
 ## Circuit Diagram
 
-![Schematic](docs/schematic.png)
+![Schematic](schematic.png)
 
 ## Web Interface
 
