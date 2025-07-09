@@ -27,7 +27,7 @@ HTML5 canvas radar display with:
 - Sweeping arc
 - Detected object distance
 - Color-coded proximity markers
-
+![Schematic](Radar_capture.png)
 
 ## Getting Started
 
